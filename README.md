@@ -53,7 +53,7 @@ Flutter developer especializado en construir aplicaciones móviles **escalables,
 ## 📫 Contacto
 
 - 📧 **Email:** [Oscardcd17@gmail.com](mailto:Oscardcd17@gmail.com)
-- 💼 **LinkedIn:** [Óscar Correa](TU-LINKEDIN)
+- 💼 **LinkedIn:** [Óscar Correa](https://www.linkedin.com/in/oscardcdavid)
 
 ---
 
